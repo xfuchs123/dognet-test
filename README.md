@@ -2,8 +2,19 @@
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
-    <h1 align="center">Yii 2 Advanced Project Template</h1>
+    <h1 align="center">Peter Fuchs Dognet Test Project</h1>
     <br>
+</p>
+
+<p>
+    Changed/added files:
+    <ul>
+        <li>common/models/Company.php</li>
+        <li>all files in console/migrations/</li>
+        <li>frontend/controllers/siteController.php</li>
+        <li>frontend/views/site/company</li>
+        <li>small ajustments to frontend configs main frontend layout and frontend css files</li>
+    </ul>
 </p>
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
